@@ -21,9 +21,12 @@ In this project, I successfully implemented:
 <img width="1920" height="990" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/84603124-ee32-4a88-9d68-992dcad2d255" />
 <img width="1920" height="979" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/2162036d-80a4-4154-8eea-7fc7441a8711" />
 <img width="1920" height="990" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/5896d244-e77d-446f-816d-116dfd3c342b" />
+<img width="1920" height="993" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/bfdfaf0c-e8cd-45be-a9af-b154b6803649" />
+
    - [1] Stone
    - [2] Paper
    - [3] Scissors
+     
 3. View the result for each round and a detailed summary at the end.
 ## 📂 Project Structure
 * `Project_Stone_Paper_Scissors.cpp`: The main source code file.
