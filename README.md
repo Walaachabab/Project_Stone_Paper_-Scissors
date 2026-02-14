@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors Game (C++) 🎮
-<img width="1920" height="983" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/2db78a6c-8cca-4252-9c6e-d86f216d4069" />
+<img width="1920" height="894" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/1cb3ea19-9405-4ecb-8576-c8e9cf6cd32e" />
 
 A simple yet robust Command Line Interface (CLI) implementation of the classic **Rock-Paper-Scissors** game, developed as part of my C++ learning journey.
 
